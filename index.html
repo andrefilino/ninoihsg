@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Papan Nilai — Saham Undervalued IHSG</title>
+<meta name="description" content="Papan pemantau saham undervalued di Bursa Efek Indonesia (IHSG): harga, nilai wajar, upside, kesehatan finansial, dan mesin pencari emiten.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="ticker-wrap" aria-hidden="true">
+  <div class="ticker-track" id="tickerTrack"><!-- diisi oleh script.js --></div>
+</div>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">PN</span>
+    <div class="brand-text">
+      <h1>Papan Nilai</h1>
+      <p>Pemantau saham <em>undervalued</em> IHSG</p>
+    </div>
+  </div>
+  <div class="status" id="statusBox">
+    <span class="dot" id="liveDot"></span>
+    <div class="status-text">
+      <span id="statusLabel">Memuat data…</span>
+      <span id="statusTime" class="mono"></span>
+    </div>
+    <button id="refreshBtn" class="btn-ghost" title="Perbarui sekarang">↻ Perbarui</button>
+  </div>
+</header>
+
+<main>
+
+  <section class="panel search-panel" id="searchPanel">
+    <h2 class="panel-title"><span class="idx">01</span> Mesin Pencari Emiten</h2>
+    <p class="panel-sub">Ketik kode saham (mis. <span class="mono">BBCA</span>) atau nama emiten untuk melihat rincian lengkap: harga, nilai wajar, rating, kinerja, dan fundamental.</p>
+    <div class="search-box">
+      <input type="text" id="searchInput" class="mono" placeholder="Cari kode saham… misalnya TLKM" autocomplete="off">
+      <div id="searchSuggest" class="search-suggest"></div>
+    </div>
+    <div id="searchResult" class="detail-card hidden"></div>
+  </section>
+
+  <section class="panel" id="tablePanel">
+    <div class="panel-head-row">
+      <h2 class="panel-title"><span class="idx">02</span> Daftar Saham Undervalued</h2>
+      <span class="panel-note">Upside dihitung dari (Nilai Wajar − Harga) ÷ Harga. Klik baris untuk rincian.</span>
+    </div>
+
+    <div class="table-scroll">
+      <table id="mainTable">
+        <thead>
+          <tr>
+            <th data-sort="kode">Kode</th>
+            <th data-sort="nama" class="col-wide">Emiten</th>
+            <th data-sort="harga" class="num">Harga</th>
+            <th data-sort="nilai_wajar" class="num">Nilai Wajar</th>
+            <th data-sort="upside" class="num">Upside</th>
+            <th data-sort="kesehatan_financial">Kesehatan Finansial</th>
+            <th data-sort="rating_arus_kas">Rating Arus Kas</th>
+            <th data-sort="rating_pertumbuhan">Rating Pertumbuhan</th>
+          </tr>
+        </thead>
+        <tbody id="mainTableBody">
+          <tr><td colspan="8" class="loading-cell">Memuat data saham…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="panel hidden" id="detailPanel">
+    <div class="panel-head-row">
+      <h2 class="panel-title"><span class="idx">03</span> Rincian Emiten — <span id="detailKode" class="mono"></span></h2>
+      <button id="closeDetail" class="btn-ghost">✕ Tutup</button>
+    </div>
+    <div id="detailContent"></div>
+  </section>
+
+  <footer class="disclaimer">
+    <p><strong>Disclaimer:</strong> Data pada halaman ini bersifat ilustratif dan dihasilkan oleh model estimasi otomatis (lihat <span class="mono">scripts/fetch_data.py</span>). Ini <u>bukan</u> rekomendasi atau nasihat investasi. Selalu verifikasi ke sumber resmi (IDX, laporan keuangan emiten, atau sekuritas berizin) sebelum mengambil keputusan.</p>
+    <p class="mono small">Diperbarui otomatis via GitHub Actions · Data terakhir: <span id="footerTime"></span></p>
+  </footer>
+
+</main>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
