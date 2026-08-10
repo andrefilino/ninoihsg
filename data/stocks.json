@@ -1,7 +1,7 @@
 {
   "meta": {
     "sumber": "Yahoo Finance (endpoint tidak resmi) + model estimasi heuristik",
-    "diperbarui": "2026-08-07T15:33:24.986960+07:00",
+    "diperbarui": "2026-08-10T10:43:41.850750+07:00",
     "catatan": "Bukan rekomendasi investasi. Nilai Wajar & rating dihasilkan dari model estimasi sederhana."
   },
   "saham": [
@@ -15,12 +15,12 @@
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 0.39,
-        "mingguan": 0.79,
+        "harian": 0.0,
+        "mingguan": 1.19,
         "bulanan": 3.24,
         "ytd": -20.56,
         "satu_tahun": -23.19,
-        "tiga_tahun": -30.71
+        "tiga_tahun": -32.18
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -34,18 +34,18 @@
       "kode": "BBRI",
       "nama": "PT Bank Rakyat Indonesia (Persero) Tbk",
       "sektor": "",
-      "harga": 3110,
-      "nilai_wajar": 3110,
+      "harga": 3130,
+      "nilai_wajar": 3130,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 2.3,
-        "mingguan": 2.3,
-        "bulanan": 11.47,
-        "ytd": -14.56,
-        "satu_tahun": -16.17,
-        "tiga_tahun": -44.71
+        "harian": 0.0,
+        "mingguan": 3.64,
+        "bulanan": 12.19,
+        "ytd": -14.01,
+        "satu_tahun": -15.41,
+        "tiga_tahun": -44.6
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -59,18 +59,18 @@
       "kode": "BMRI",
       "nama": "PT Bank Mandiri (Persero) Tbk",
       "sektor": "",
-      "harga": 4240,
-      "nilai_wajar": 4240,
+      "harga": 4210,
+      "nilai_wajar": 4210,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 0.95,
-        "mingguan": 1.19,
-        "bulanan": 6.8,
-        "ytd": -16.45,
-        "satu_tahun": -9.4,
-        "tiga_tahun": -28.14
+        "harian": -0.71,
+        "mingguan": 0.96,
+        "bulanan": 3.19,
+        "ytd": -17.04,
+        "satu_tahun": -9.85,
+        "tiga_tahun": -28.95
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -84,18 +84,18 @@
       "kode": "BBNI",
       "nama": "PT Bank Negara Indonesia (Persero) Tbk",
       "sektor": "",
-      "harga": 3630,
-      "nilai_wajar": 3630,
+      "harga": 3640,
+      "nilai_wajar": 3640,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
         "harian": 0.28,
-        "mingguan": 2.83,
-        "bulanan": 7.4,
-        "ytd": -14.79,
-        "satu_tahun": -11.89,
-        "tiga_tahun": -18.66
+        "mingguan": 3.41,
+        "bulanan": 6.43,
+        "ytd": -14.55,
+        "satu_tahun": -10.57,
+        "tiga_tahun": -20.0
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -109,18 +109,18 @@
       "kode": "TLKM",
       "nama": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
       "sektor": "",
-      "harga": 2720,
-      "nilai_wajar": 2720,
+      "harga": 2680,
+      "nilai_wajar": 2680,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 2.64,
-        "mingguan": 3.42,
-        "bulanan": 8.37,
-        "ytd": -21.61,
-        "satu_tahun": -7.8,
-        "tiga_tahun": -27.08
+        "harian": -1.11,
+        "mingguan": -2.19,
+        "bulanan": 8.06,
+        "ytd": -22.77,
+        "satu_tahun": -8.84,
+        "tiga_tahun": -29.66
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -134,18 +134,18 @@
       "kode": "ASII",
       "nama": "PT Astra International Tbk",
       "sektor": "",
-      "harga": 5125,
-      "nilai_wajar": 5125,
+      "harga": 5025,
+      "nilai_wajar": 5025,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 0.49,
-        "mingguan": 0.49,
-        "bulanan": 4.81,
-        "ytd": -24.63,
-        "satu_tahun": 3.33,
-        "tiga_tahun": -25.18
+        "harian": -1.47,
+        "mingguan": -0.5,
+        "bulanan": 4.47,
+        "ytd": -26.1,
+        "satu_tahun": 2.13,
+        "tiga_tahun": -25.56
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -159,18 +159,18 @@
       "kode": "UNVR",
       "nama": "PT Unilever Indonesia Tbk",
       "sektor": "",
-      "harga": 1815,
-      "nilai_wajar": 1815,
+      "harga": 1825,
+      "nilai_wajar": 1825,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 0.55,
-        "mingguan": 3.42,
-        "bulanan": 4.61,
-        "ytd": -30.73,
-        "satu_tahun": 2.83,
-        "tiga_tahun": -51.6
+        "harian": 0.27,
+        "mingguan": 4.89,
+        "bulanan": 5.49,
+        "ytd": -30.34,
+        "satu_tahun": 4.29,
+        "tiga_tahun": -50.68
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -184,18 +184,18 @@
       "kode": "ICBP",
       "nama": "PT Indofood CBP Sukses Makmur Tbk",
       "sektor": "",
-      "harga": 7700,
-      "nilai_wajar": 7700,
+      "harga": 7625,
+      "nilai_wajar": 7625,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 3.36,
-        "mingguan": 10.39,
-        "bulanan": 16.23,
-        "ytd": -4.64,
-        "satu_tahun": -18.95,
-        "tiga_tahun": -30.94
+        "harian": -1.61,
+        "mingguan": 5.9,
+        "bulanan": 14.66,
+        "ytd": -5.57,
+        "satu_tahun": -18.45,
+        "tiga_tahun": -33.55
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -209,18 +209,18 @@
       "kode": "INDF",
       "nama": "PT Indofood Sukses Makmur Tbk",
       "sektor": "",
-      "harga": 7425,
-      "nilai_wajar": 7425,
+      "harga": 7400,
+      "nilai_wajar": 7400,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 2.06,
-        "mingguan": 6.45,
-        "bulanan": 12.93,
-        "ytd": 11.24,
-        "satu_tahun": -9.45,
-        "tiga_tahun": 6.07
+        "harian": -0.67,
+        "mingguan": 4.59,
+        "bulanan": 9.23,
+        "ytd": 10.86,
+        "satu_tahun": -9.2,
+        "tiga_tahun": 4.96
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -234,18 +234,18 @@
       "kode": "KLBF",
       "nama": "PT Kalbe Farma Tbk.",
       "sektor": "",
-      "harga": 785,
-      "nilai_wajar": 785,
+      "harga": 790,
+      "nilai_wajar": 790,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": -0.63,
-        "mingguan": 8.28,
-        "bulanan": 6.08,
-        "ytd": -34.85,
-        "satu_tahun": -43.12,
-        "tiga_tahun": -57.68
+        "harian": 0.0,
+        "mingguan": 8.97,
+        "bulanan": 8.97,
+        "ytd": -34.44,
+        "satu_tahun": -42.55,
+        "tiga_tahun": -57.3
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -259,18 +259,18 @@
       "kode": "SMGR",
       "nama": "PT Semen Indonesia (Persero) Tbk",
       "sektor": "",
-      "harga": 1615,
-      "nilai_wajar": 1615,
+      "harga": 1600,
+      "nilai_wajar": 1600,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": -0.62,
-        "mingguan": 10.62,
-        "bulanan": 13.73,
-        "ytd": -39.29,
-        "satu_tahun": -35.14,
-        "tiga_tahun": -76.42
+        "harian": -1.23,
+        "mingguan": 8.11,
+        "bulanan": 13.07,
+        "ytd": -39.85,
+        "satu_tahun": -35.48,
+        "tiga_tahun": -76.21
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -284,18 +284,18 @@
       "kode": "ADRO",
       "nama": "PT Alamtri Resources Indonesia Tbk",
       "sektor": "",
-      "harga": 2530,
-      "nilai_wajar": 2530,
+      "harga": 2540,
+      "nilai_wajar": 2540,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 1.2,
-        "mingguan": 2.85,
-        "bulanan": 10.0,
-        "ytd": 39.01,
-        "satu_tahun": 35.29,
-        "tiga_tahun": 6.75
+        "harian": 0.0,
+        "mingguan": 2.83,
+        "bulanan": 6.28,
+        "ytd": 39.56,
+        "satu_tahun": 41.9,
+        "tiga_tahun": 8.09
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -309,18 +309,18 @@
       "kode": "PTBA",
       "nama": "PT Bukit Asam (Persero) Tbk",
       "sektor": "",
-      "harga": 2360,
-      "nilai_wajar": 2360,
+      "harga": 2390,
+      "nilai_wajar": 2390,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 0.43,
-        "mingguan": 1.72,
-        "bulanan": 0.43,
-        "ytd": 1.72,
-        "satu_tahun": -1.67,
-        "tiga_tahun": -14.8
+        "harian": 0.84,
+        "mingguan": 3.02,
+        "bulanan": 0.42,
+        "ytd": 3.02,
+        "satu_tahun": -0.42,
+        "tiga_tahun": -13.72
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -334,18 +334,18 @@
       "kode": "ANTM",
       "nama": "PT Antam (Persero) Tbk",
       "sektor": "",
-      "harga": 3130,
-      "nilai_wajar": 3130,
+      "harga": 3170,
+      "nilai_wajar": 3170,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 1.62,
-        "mingguan": 8.68,
-        "bulanan": 12.19,
-        "ytd": -2.49,
-        "satu_tahun": -0.63,
-        "tiga_tahun": 55.72
+        "harian": 0.32,
+        "mingguan": 10.45,
+        "bulanan": 9.31,
+        "ytd": -1.25,
+        "satu_tahun": 2.59,
+        "tiga_tahun": 59.3
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -359,18 +359,18 @@
       "kode": "MDKA",
       "nama": "PT Merdeka Copper Gold Tbk",
       "sektor": "",
-      "harga": 2920,
-      "nilai_wajar": 2920,
+      "harga": 3040,
+      "nilai_wajar": 3040,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 2.82,
-        "mingguan": 7.35,
-        "bulanan": 13.62,
-        "ytd": 25.32,
-        "satu_tahun": 17.27,
-        "tiga_tahun": -13.35
+        "harian": 3.4,
+        "mingguan": 11.76,
+        "bulanan": 18.29,
+        "ytd": 30.47,
+        "satu_tahun": 23.08,
+        "tiga_tahun": -7.32
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -384,18 +384,18 @@
       "kode": "PGAS",
       "nama": "PT Perusahaan Gas Negara (Persero) Tbk",
       "sektor": "",
-      "harga": 1510,
-      "nilai_wajar": 1510,
+      "harga": 1515,
+      "nilai_wajar": 1515,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
         "harian": 0.33,
-        "mingguan": 0.67,
-        "bulanan": 5.96,
-        "ytd": -21.76,
-        "satu_tahun": -10.65,
-        "tiga_tahun": 7.86
+        "mingguan": 0.33,
+        "bulanan": 3.41,
+        "ytd": -21.5,
+        "satu_tahun": -10.09,
+        "tiga_tahun": 7.83
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -409,18 +409,18 @@
       "kode": "EXCL",
       "nama": "PT XLSMART Telecom Sejahtera Tbk",
       "sektor": "",
-      "harga": 2540,
-      "nilai_wajar": 2540,
+      "harga": 2550,
+      "nilai_wajar": 2550,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 1.6,
-        "mingguan": 4.1,
-        "bulanan": 1.2,
-        "ytd": -32.27,
-        "satu_tahun": 0.4,
-        "tiga_tahun": 9.01
+        "harian": 0.0,
+        "mingguan": 0.79,
+        "bulanan": 4.08,
+        "ytd": -32.0,
+        "satu_tahun": -3.41,
+        "tiga_tahun": 11.84
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -440,12 +440,12 @@
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 1.45,
-        "mingguan": 1.82,
-        "bulanan": 3.33,
+        "harian": 0.0,
+        "mingguan": 0.72,
+        "bulanan": 2.57,
         "ytd": -18.66,
-        "satu_tahun": -21.41,
-        "tiga_tahun": -25.2
+        "satu_tahun": -20.74,
+        "tiga_tahun": -25.4
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -465,12 +465,12 @@
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": -1.4,
-        "mingguan": -3.75,
+        "harian": -0.7,
+        "mingguan": -2.42,
         "bulanan": 6.82,
         "ytd": 10.16,
         "satu_tahun": 8.05,
-        "tiga_tahun": 10.16
+        "tiga_tahun": 11.9
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -484,18 +484,18 @@
       "kode": "CPIN",
       "nama": "PT Charoen Pokphand Indonesia Tbk",
       "sektor": "",
-      "harga": 3160,
-      "nilai_wajar": 3160,
+      "harga": 3130,
+      "nilai_wajar": 3130,
       "kesehatan_financial": "Wajar",
       "rating_arus_kas": "Wajar",
       "rating_pertumbuhan": "Wajar",
       "kinerja": {
-        "harian": 0.0,
-        "mingguan": -3.95,
-        "bulanan": 3.27,
-        "ytd": -30.4,
-        "satu_tahun": -30.24,
-        "tiga_tahun": -38.34
+        "harian": -0.32,
+        "mingguan": -0.95,
+        "bulanan": 0.32,
+        "ytd": -31.06,
+        "satu_tahun": -30.44,
+        "tiga_tahun": -40.38
       },
       "fundamental": {
         "volume_rata3bulan": null,
