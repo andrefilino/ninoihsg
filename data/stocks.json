@@ -1,7 +1,7 @@
 {
   "meta": {
     "sumber": "Yahoo Finance (endpoint tidak resmi) + model estimasi heuristik",
-    "diperbarui": "2026-08-14T16:33:05.532556+07:00",
+    "diperbarui": "2026-08-17T09:52:12.526360+07:00",
     "catatan": "Bukan rekomendasi investasi. Nilai Wajar & rating dihasilkan dari model estimasi sederhana."
   },
   "saham": [
@@ -20,7 +20,7 @@
         "bulanan": 3.67,
         "ytd": -20.87,
         "satu_tahun": -27.64,
-        "tiga_tahun": -31.72
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -45,7 +45,7 @@
         "bulanan": 10.25,
         "ytd": -14.29,
         "satu_tahun": -23.15,
-        "tiga_tahun": -44.04
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -70,7 +70,7 @@
         "bulanan": -0.71,
         "ytd": -17.83,
         "satu_tahun": -14.02,
-        "tiga_tahun": -28.1
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -95,7 +95,7 @@
         "bulanan": 4.91,
         "ytd": -14.79,
         "satu_tahun": -17.31,
-        "tiga_tahun": -20.22
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -120,7 +120,7 @@
         "bulanan": 3.97,
         "ytd": -24.5,
         "satu_tahun": -23.39,
-        "tiga_tahun": -31.41
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -145,7 +145,7 @@
         "bulanan": -1.44,
         "ytd": -29.71,
         "satu_tahun": -6.27,
-        "tiga_tahun": -28.92
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -170,7 +170,7 @@
         "bulanan": 6.29,
         "ytd": -32.25,
         "satu_tahun": -3.01,
-        "tiga_tahun": -52.41
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -195,7 +195,7 @@
         "bulanan": 15.15,
         "ytd": -5.88,
         "satu_tahun": -21.85,
-        "tiga_tahun": -33.77
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -220,7 +220,7 @@
         "bulanan": 10.0,
         "ytd": 11.24,
         "satu_tahun": -8.9,
-        "tiga_tahun": 6.07
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -245,7 +245,7 @@
         "bulanan": 13.48,
         "ytd": -33.61,
         "satu_tahun": -44.25,
-        "tiga_tahun": -56.76
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -270,7 +270,7 @@
         "bulanan": 8.97,
         "ytd": -40.6,
         "satu_tahun": -40.38,
-        "tiga_tahun": -76.93
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -295,7 +295,7 @@
         "bulanan": 2.02,
         "ytd": 39.01,
         "satu_tahun": 37.5,
-        "tiga_tahun": 0.8
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -320,7 +320,7 @@
         "bulanan": -2.48,
         "ytd": 1.72,
         "satu_tahun": -2.48,
-        "tiga_tahun": -15.41
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -345,7 +345,7 @@
         "bulanan": 0.99,
         "ytd": -4.36,
         "satu_tahun": 6.23,
-        "tiga_tahun": 54.27
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -370,7 +370,7 @@
         "bulanan": 9.43,
         "ytd": 24.46,
         "satu_tahun": 27.75,
-        "tiga_tahun": -9.66
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -395,7 +395,7 @@
         "bulanan": 0.34,
         "ytd": -22.54,
         "satu_tahun": -9.94,
-        "tiga_tahun": 2.4
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -420,7 +420,7 @@
         "bulanan": 9.8,
         "ytd": -25.33,
         "satu_tahun": -5.41,
-        "tiga_tahun": 22.81
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -445,7 +445,7 @@
         "bulanan": 1.87,
         "ytd": -20.41,
         "satu_tahun": -22.88,
-        "tiga_tahun": -25.61
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -470,7 +470,7 @@
         "bulanan": 3.7,
         "ytd": 9.38,
         "satu_tahun": 11.55,
-        "tiga_tahun": 7.28
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
@@ -495,7 +495,7 @@
         "bulanan": 0.0,
         "ytd": -32.38,
         "satu_tahun": -31.01,
-        "tiga_tahun": -42.35
+        "tiga_tahun": null
       },
       "fundamental": {
         "volume_rata3bulan": null,
